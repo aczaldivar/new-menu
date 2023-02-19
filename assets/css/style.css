@@ -25,6 +25,10 @@ img {
 
 main {
     margin: 0 20%;
+    padding:200px;
+    padding-top: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 nav {
@@ -53,13 +57,18 @@ nav a:hover {
 }
 
 #banner {
-    width: 35%;
-    height: 25%;
+    width: 500px;
+    height: 350px;
     background-color: white;
 }
 .banner{
-    text-align: center;
+    padding-right: 130px;
+ 
+    padding-left: 140px;
+    height: 310px;
 }
+    
+
 
 .service {
     display: inline-block;
@@ -117,4 +126,25 @@ nav {
 .service3 {
     display: inline-block;
     text-align: center;
+}
+ul li{
+    list-style:none;
+    text-align: center;
+}
+#bannerz{
+    width: 534px;
+    padding-left: 144px;
+}
+#banners{
+    padding-left: 60px;  
+}
+div.banner img{
+   
+    width:700px;
+}
+div#bannerz{
+    padding-left:524px;
+}
+ul{
+padding-left:11px;
 }
